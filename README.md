@@ -1,6 +1,5 @@
 # Server Sent Events for Ordering Tracking with Spring Boot + MongoDB + AWS SQS & Google Maps
 
-This application has been written for the test with LINEMAN Wongnai.
 
 ## Installation
 
